@@ -1,0 +1,2 @@
+//Script that filters documents in collection.
+db.school.find({name: /Holberton.*/});
